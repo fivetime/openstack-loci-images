@@ -440,7 +440,6 @@ openstack_client_pip_packages:
   - python-swiftclient
   - python-tackerclient
   - python-troveclient
-  - python-vitrageclient
   - python-watcherclient
   - python-zaqarclient
   - python-zunclient
